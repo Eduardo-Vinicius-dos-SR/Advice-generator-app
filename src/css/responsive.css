@@ -1,0 +1,16 @@
+@media (max-width: 1440px) {
+	.app .generator-app {
+		gap: 30px;
+		border-radius: 20px;
+		padding: 50px;
+		padding-bottom: 65px;
+	}
+
+	.generator-app h2 {
+		font-size: 1.4rem;
+	}
+
+	.generator-app p {
+		font-size: 2.8rem;
+	}
+}
