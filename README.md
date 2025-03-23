@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor]()
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/advice-generator-app-P5Ge5fzsbE)
 - Live Site URL: [GitHub Pages](https://eduardo-vinicius-dos-sr.github.io/Advice-generator-app/)
 
 ## My process
